@@ -41,12 +41,58 @@ A narrative visualization of Tokyo’s urban transformation, created in collabor
 
 ---
 
+## XaViz
+[Live site](https://yohman.github.io/pfhp/web/site/) | [GitHub](https://github.com/yohman/pfhp)
+
+<img src="images/xaviz.png" width="180" />
+
+XaViz transforms complex Japanese historical demographic records (SAC and NAC) into an accessible interactive visualization tool, democratizing specialized archival research and revealing diverse household structures that challenge assumptions about "traditional" Japanese families in the 18th-19th centuries.
+
+---
+
+## Community Health Worker Outreach Initiative
+[Live site](https://yohman.github.io/chs-mapping/web/) | [GitHub](https://github.com/yohman/chs-mapping)
+
+<img src="images/chs.png" width="180" />
+
+A project aimed at improving outreach and support for community health workers through interactive mapping and data visualization.
+
+---
+
+## Tokyo Parcels
+[Live site](https://yohman.github.io/tokyo-parcels/) | [GitHub](https://github.com/yohman/tokyo-parcels)
+
+<img src="images/tokyo parcels.png" width="180" />
+
+A project visualizing parcel data in Tokyo, aimed at urban planners, researchers, and the general public interested in land use and urban development.
+
+---
+
+## LatLonGetter
+
+[Live site](https://yohman.github.io/getlatlon/) | [GitHub](https://github.com/yohman/getlatlon)   
+
+<img src="images/getlatlon.png" width="180" />
+
+A simple tool to extract latitude and longitude coordinates from a map. Useful for educators, students, and developers needing quick geolocation data.
+
+---
+
 ## Directions  
 [Live site](https://yohman.github.io/directions/) | [GitHub](https://github.com/yohman/directions)
 
 <img src="images/directions.png" width="180" />
 
 A simple direction-finding and route-planning demo. Built as an educational tool to illustrate spatial logic and interface design principles.
+
+---
+
+## Basemaps in Japan  
+[Live site](https://yohman.github.io/basemap/basemap.html) | [GitHub](https://github.com/yohman/basemap)
+
+<img src="images/basemaps.png" width="180" />
+
+Need a basemap for your interactive web map? This site offers a curated selection of publicly available basemaps, with a special focus on maps of Japan. Ideal for developers and educators building web map applications.
 
 ---
 
