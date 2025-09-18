@@ -4,6 +4,15 @@ A collection of interactive, map-based and narrative-driven web projects focused
 
 ---
 
+## XaViz
+[Live site](https://yohman.github.io/pfhp/web/site/) | [GitHub](https://github.com/yohman/pfhp)
+
+<img src="images/xaviz.png" width="180" />
+
+XaViz transforms complex Japanese historical demographic records (SAC and NAC) into an accessible interactive visualization tool, democratizing specialized archival research and revealing diverse household structures that challenge assumptions about "traditional" Japanese families in the 18th-19th centuries.
+
+---
+
 ## KISEKI  
 [Live site](https://yohman.github.io/kiseki/) | [GitHub](https://github.com/yohman/kiseki)
 
@@ -40,16 +49,6 @@ A curated archive of digital mapping projects from the HyperCities era. Updated 
 A narrative visualization of Tokyo’s urban transformation, created in collaboration with XYMAX. Combines data, storytelling, and interactive cartography.
 
 ---
-
-## XaViz
-[Live site](https://yohman.github.io/pfhp/web/site/) | [GitHub](https://github.com/yohman/pfhp)
-
-<img src="images/xaviz.png" width="180" />
-
-XaViz transforms complex Japanese historical demographic records (SAC and NAC) into an accessible interactive visualization tool, democratizing specialized archival research and revealing diverse household structures that challenge assumptions about "traditional" Japanese families in the 18th-19th centuries.
-
----
-
 ## Community Health Worker Outreach Initiative
 [Live site](https://yohman.github.io/chs-mapping/web/) | [GitHub](https://github.com/yohman/chs-mapping)
 
