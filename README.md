@@ -7,6 +7,7 @@ A collection of interactive, map-based and narrative-driven web projects focused
 ## 東京オフィス物語
 [Live site](https://xymax-mapping.github.io/yoh/vacancy_rent/tokyo_story.html) 
 
+<img src="images/tokyo_office_screenshot.png" width="180" />
 
 ---
 
